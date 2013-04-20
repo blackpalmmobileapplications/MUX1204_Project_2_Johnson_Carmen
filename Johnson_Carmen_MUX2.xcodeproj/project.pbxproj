@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		112F940D1722315200FE7A9A /* Camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F940C1722315200FE7A9A /* Camera.png */; };
+		112F940F1722315D00FE7A9A /* BurgerIphoneApp.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F940E1722315D00FE7A9A /* BurgerIphoneApp.png */; };
+		112F94111722316500FE7A9A /* ThumbsUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F94101722316500FE7A9A /* ThumbsUp.png */; };
+		112F94131722317000FE7A9A /* RubiosIphoneApp.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F94121722317000FE7A9A /* RubiosIphoneApp.png */; };
+		112F94151722319300FE7A9A /* lime copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F94141722319300FE7A9A /* lime copy.png */; };
 		11CC06A0171F1D6200EBB629 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CC069F171F1D6200EBB629 /* UIKit.framework */; };
 		11CC06A2171F1D6200EBB629 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CC06A1171F1D6200EBB629 /* Foundation.framework */; };
 		11CC06A4171F1D6200EBB629 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CC06A3171F1D6200EBB629 /* CoreGraphics.framework */; };
@@ -21,6 +26,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		112F940C1722315200FE7A9A /* Camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Camera.png; sourceTree = "<group>"; };
+		112F940E1722315D00FE7A9A /* BurgerIphoneApp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BurgerIphoneApp.png; sourceTree = "<group>"; };
+		112F94101722316500FE7A9A /* ThumbsUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ThumbsUp.png; sourceTree = "<group>"; };
+		112F94121722317000FE7A9A /* RubiosIphoneApp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RubiosIphoneApp.png; sourceTree = "<group>"; };
+		112F94141722319300FE7A9A /* lime copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lime copy.png"; sourceTree = "<group>"; };
 		11CC069C171F1D6200EBB629 /* Johnson_Carmen_MUX2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Johnson_Carmen_MUX2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11CC069F171F1D6200EBB629 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		11CC06A1171F1D6200EBB629 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -88,6 +98,11 @@
 				11CC06B7171F1D6200EBB629 /* MainStoryboard.storyboard */,
 				11CC06BA171F1D6200EBB629 /* ViewController.h */,
 				11CC06BB171F1D6200EBB629 /* ViewController.m */,
+				112F940C1722315200FE7A9A /* Camera.png */,
+				112F940E1722315D00FE7A9A /* BurgerIphoneApp.png */,
+				112F94101722316500FE7A9A /* ThumbsUp.png */,
+				112F94121722317000FE7A9A /* RubiosIphoneApp.png */,
+				112F94141722319300FE7A9A /* lime copy.png */,
 				11CC06A6171F1D6200EBB629 /* Supporting Files */,
 			);
 			path = Johnson_Carmen_MUX2;
@@ -163,6 +178,11 @@
 				11CC06B4171F1D6200EBB629 /* Default@2x.png in Resources */,
 				11CC06B6171F1D6200EBB629 /* Default-568h@2x.png in Resources */,
 				11CC06B9171F1D6200EBB629 /* MainStoryboard.storyboard in Resources */,
+				112F940D1722315200FE7A9A /* Camera.png in Resources */,
+				112F940F1722315D00FE7A9A /* BurgerIphoneApp.png in Resources */,
+				112F94111722316500FE7A9A /* ThumbsUp.png in Resources */,
+				112F94131722317000FE7A9A /* RubiosIphoneApp.png in Resources */,
+				112F94151722319300FE7A9A /* lime copy.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +318,7 @@
 				11CC06C1171F1D6200EBB629 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
