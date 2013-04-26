@@ -12,6 +12,11 @@
 		112F94111722316500FE7A9A /* ThumbsUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F94101722316500FE7A9A /* ThumbsUp.png */; };
 		112F94131722317000FE7A9A /* RubiosIphoneApp.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F94121722317000FE7A9A /* RubiosIphoneApp.png */; };
 		112F94151722319300FE7A9A /* lime copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 112F94141722319300FE7A9A /* lime copy.png */; };
+		11C6FC19172A1C8F00DCC86B /* emoticon.ico in Resources */ = {isa = PBXBuildFile; fileRef = 11C6FC18172A1C8F00DCC86B /* emoticon.ico */; };
+		11C6FC1B172A1CB800DCC86B /* CameraSendButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 11C6FC1A172A1CB800DCC86B /* CameraSendButton.png */; };
+		11C6FC1D172A1CCA00DCC86B /* Camera-Icon copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 11C6FC1C172A1CCA00DCC86B /* Camera-Icon copy.png */; };
+		11C6FC1F172A1CD400DCC86B /* PicKixIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 11C6FC1E172A1CD400DCC86B /* PicKixIcon.png */; };
+		11C6FC21172A1CDE00DCC86B /* A19-CircleArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 11C6FC20172A1CDE00DCC86B /* A19-CircleArrow.png */; };
 		11CC06A0171F1D6200EBB629 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CC069F171F1D6200EBB629 /* UIKit.framework */; };
 		11CC06A2171F1D6200EBB629 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CC06A1171F1D6200EBB629 /* Foundation.framework */; };
 		11CC06A4171F1D6200EBB629 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11CC06A3171F1D6200EBB629 /* CoreGraphics.framework */; };
@@ -31,6 +36,11 @@
 		112F94101722316500FE7A9A /* ThumbsUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ThumbsUp.png; sourceTree = "<group>"; };
 		112F94121722317000FE7A9A /* RubiosIphoneApp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RubiosIphoneApp.png; sourceTree = "<group>"; };
 		112F94141722319300FE7A9A /* lime copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lime copy.png"; sourceTree = "<group>"; };
+		11C6FC18172A1C8F00DCC86B /* emoticon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = emoticon.ico; sourceTree = "<group>"; };
+		11C6FC1A172A1CB800DCC86B /* CameraSendButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CameraSendButton.png; sourceTree = "<group>"; };
+		11C6FC1C172A1CCA00DCC86B /* Camera-Icon copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Camera-Icon copy.png"; sourceTree = "<group>"; };
+		11C6FC1E172A1CD400DCC86B /* PicKixIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PicKixIcon.png; sourceTree = "<group>"; };
+		11C6FC20172A1CDE00DCC86B /* A19-CircleArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "A19-CircleArrow.png"; sourceTree = "<group>"; };
 		11CC069C171F1D6200EBB629 /* Johnson_Carmen_MUX2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Johnson_Carmen_MUX2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11CC069F171F1D6200EBB629 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		11CC06A1171F1D6200EBB629 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -98,6 +108,11 @@
 				11CC06B7171F1D6200EBB629 /* MainStoryboard.storyboard */,
 				11CC06BA171F1D6200EBB629 /* ViewController.h */,
 				11CC06BB171F1D6200EBB629 /* ViewController.m */,
+				11C6FC18172A1C8F00DCC86B /* emoticon.ico */,
+				11C6FC1A172A1CB800DCC86B /* CameraSendButton.png */,
+				11C6FC1C172A1CCA00DCC86B /* Camera-Icon copy.png */,
+				11C6FC1E172A1CD400DCC86B /* PicKixIcon.png */,
+				11C6FC20172A1CDE00DCC86B /* A19-CircleArrow.png */,
 				112F940C1722315200FE7A9A /* Camera.png */,
 				112F940E1722315D00FE7A9A /* BurgerIphoneApp.png */,
 				112F94101722316500FE7A9A /* ThumbsUp.png */,
@@ -183,6 +198,11 @@
 				112F94111722316500FE7A9A /* ThumbsUp.png in Resources */,
 				112F94131722317000FE7A9A /* RubiosIphoneApp.png in Resources */,
 				112F94151722319300FE7A9A /* lime copy.png in Resources */,
+				11C6FC19172A1C8F00DCC86B /* emoticon.ico in Resources */,
+				11C6FC1B172A1CB800DCC86B /* CameraSendButton.png in Resources */,
+				11C6FC1D172A1CCA00DCC86B /* Camera-Icon copy.png in Resources */,
+				11C6FC1F172A1CD400DCC86B /* PicKixIcon.png in Resources */,
+				11C6FC21172A1CDE00DCC86B /* A19-CircleArrow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
