@@ -28,6 +28,16 @@
 		11CC06B6171F1D6200EBB629 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11CC06B5171F1D6200EBB629 /* Default-568h@2x.png */; };
 		11CC06B9171F1D6200EBB629 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11CC06B7171F1D6200EBB629 /* MainStoryboard.storyboard */; };
 		11CC06BC171F1D6200EBB629 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11CC06BB171F1D6200EBB629 /* ViewController.m */; };
+		11EA2A7917332EC200698276 /* GreenCheckMark.png in Resources */ = {isa = PBXBuildFile; fileRef = 11EA2A7817332EC200698276 /* GreenCheckMark.png */; };
+		11EA2A7B17332ECF00698276 /* RoundOne.png in Resources */ = {isa = PBXBuildFile; fileRef = 11EA2A7A17332ECF00698276 /* RoundOne.png */; };
+		11EA2A7D1733395B00698276 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 11EA2A7C1733395B00698276 /* ViewController.xib */; };
+		11EA2A81173351D200698276 /* SignedUpAlert.png in Resources */ = {isa = PBXBuildFile; fileRef = 11EA2A80173351D200698276 /* SignedUpAlert.png */; };
+		F039436B17312F9100FCA9FA /* ipad-button-green-pressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F039436917312F9100FCA9FA /* ipad-button-green-pressed@2x.png */; };
+		F039436C17312F9100FCA9FA /* ipad-button-green@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F039436A17312F9100FCA9FA /* ipad-button-green@2x.png */; };
+		F03943701731315E00FCA9FA /* ipad-button-blue-pressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F039436E1731315E00FCA9FA /* ipad-button-blue-pressed@2x.png */; };
+		F03943711731315E00FCA9FA /* ipad-button-blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F039436F1731315E00FCA9FA /* ipad-button-blue@2x.png */; };
+		F03943731731339500FCA9FA /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F03943721731339500FCA9FA /* images.jpeg */; };
+		F04C5DF617312E5E002392E8 /* bayelo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F04C5DF517312E5E002392E8 /* bayelo.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +67,16 @@
 		11CC06B8171F1D6200EBB629 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		11CC06BA171F1D6200EBB629 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		11CC06BB171F1D6200EBB629 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		11EA2A7817332EC200698276 /* GreenCheckMark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GreenCheckMark.png; sourceTree = "<group>"; };
+		11EA2A7A17332ECF00698276 /* RoundOne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RoundOne.png; sourceTree = "<group>"; };
+		11EA2A7C1733395B00698276 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		11EA2A80173351D200698276 /* SignedUpAlert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SignedUpAlert.png; sourceTree = "<group>"; };
+		F039436917312F9100FCA9FA /* ipad-button-green-pressed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ipad-button-green-pressed@2x.png"; sourceTree = "<group>"; };
+		F039436A17312F9100FCA9FA /* ipad-button-green@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ipad-button-green@2x.png"; sourceTree = "<group>"; };
+		F039436E1731315E00FCA9FA /* ipad-button-blue-pressed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ipad-button-blue-pressed@2x.png"; sourceTree = "<group>"; };
+		F039436F1731315E00FCA9FA /* ipad-button-blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ipad-button-blue@2x.png"; sourceTree = "<group>"; };
+		F03943721731339500FCA9FA /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		F04C5DF517312E5E002392E8 /* bayelo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bayelo.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,15 +124,25 @@
 			isa = PBXGroup;
 			children = (
 				11CC06AE171F1D6200EBB629 /* AppDelegate.h */,
+				F03943721731339500FCA9FA /* images.jpeg */,
+				F04C5DF517312E5E002392E8 /* bayelo.jpeg */,
 				11CC06AF171F1D6200EBB629 /* AppDelegate.m */,
 				11CC06B7171F1D6200EBB629 /* MainStoryboard.storyboard */,
 				11CC06BA171F1D6200EBB629 /* ViewController.h */,
 				11CC06BB171F1D6200EBB629 /* ViewController.m */,
+				11EA2A7C1733395B00698276 /* ViewController.xib */,
 				11C6FC18172A1C8F00DCC86B /* emoticon.ico */,
+				11EA2A7A17332ECF00698276 /* RoundOne.png */,
+				11EA2A80173351D200698276 /* SignedUpAlert.png */,
+				11EA2A7817332EC200698276 /* GreenCheckMark.png */,
 				11C6FC1A172A1CB800DCC86B /* CameraSendButton.png */,
 				11C6FC1C172A1CCA00DCC86B /* Camera-Icon copy.png */,
 				11C6FC1E172A1CD400DCC86B /* PicKixIcon.png */,
 				11C6FC20172A1CDE00DCC86B /* A19-CircleArrow.png */,
+				F039436917312F9100FCA9FA /* ipad-button-green-pressed@2x.png */,
+				F039436A17312F9100FCA9FA /* ipad-button-green@2x.png */,
+				F039436E1731315E00FCA9FA /* ipad-button-blue-pressed@2x.png */,
+				F039436F1731315E00FCA9FA /* ipad-button-blue@2x.png */,
 				112F940C1722315200FE7A9A /* Camera.png */,
 				112F940E1722315D00FE7A9A /* BurgerIphoneApp.png */,
 				112F94101722316500FE7A9A /* ThumbsUp.png */,
@@ -203,6 +233,16 @@
 				11C6FC1D172A1CCA00DCC86B /* Camera-Icon copy.png in Resources */,
 				11C6FC1F172A1CD400DCC86B /* PicKixIcon.png in Resources */,
 				11C6FC21172A1CDE00DCC86B /* A19-CircleArrow.png in Resources */,
+				F04C5DF617312E5E002392E8 /* bayelo.jpeg in Resources */,
+				F039436B17312F9100FCA9FA /* ipad-button-green-pressed@2x.png in Resources */,
+				F039436C17312F9100FCA9FA /* ipad-button-green@2x.png in Resources */,
+				F03943701731315E00FCA9FA /* ipad-button-blue-pressed@2x.png in Resources */,
+				F03943711731315E00FCA9FA /* ipad-button-blue@2x.png in Resources */,
+				F03943731731339500FCA9FA /* images.jpeg in Resources */,
+				11EA2A7917332EC200698276 /* GreenCheckMark.png in Resources */,
+				11EA2A7B17332ECF00698276 /* RoundOne.png in Resources */,
+				11EA2A7D1733395B00698276 /* ViewController.xib in Resources */,
+				11EA2A81173351D200698276 /* SignedUpAlert.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +343,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Johnson_Carmen_MUX2/Johnson_Carmen_MUX2-Prefix.pch";
 				INFOPLIST_FILE = "Johnson_Carmen_MUX2/Johnson_Carmen_MUX2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -314,6 +355,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Johnson_Carmen_MUX2/Johnson_Carmen_MUX2-Prefix.pch";
 				INFOPLIST_FILE = "Johnson_Carmen_MUX2/Johnson_Carmen_MUX2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
